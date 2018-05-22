@@ -1,4 +1,5 @@
 var playlist = {
   artistnames: 'song titles'};
-  playlist.artist
+  playlist.artistnames = 'Alison';
+  playlist.art
   
