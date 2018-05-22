@@ -4,3 +4,4 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songtitle)
 playlist.artistName = 'songtitle';
+  
