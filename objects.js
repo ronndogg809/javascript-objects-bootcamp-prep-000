@@ -1,3 +1,3 @@
-var playlist = new Object ({
-  artistnames: 'song titles' });
+var playlist = new Object {
+  artistnames: 'song titles' };
   
